@@ -21,17 +21,25 @@
       </p>
       <p class="text-gray-800 mb-4">Title: {{ book?.title }}</p>
       <p class="text-gray-800 mb-4">
-        Author(s): {{getAuthorsString(book?.authors)}}
+        Author(s): {{ getAuthorsString(book?.authors) }}
       </p>
       <p class="text-gray-800 mb-4">Edition Count: {{ book?.edition_count }}</p>
       <p class="text-gray-800 mb-4">
         No. Of Pages: {{ bookDetails?.number_of_pages }}
       </p>
-
       <button
-        class="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600"
+        (click)="
+          !isInWishlist(book?.cover_edition_key)
+            ? addItem(book)
+            : removeItem(book?.cover_edition_key)
+        "
+        class="px-4 py-2 w-48 bg-blue-500 text-white rounded-lg hover:bg-blue-600"
       >
-        Add to Wishlist
+        {{
+          isInWishlist(book?.cover_edition_key)
+            ? "Remove to Wishlist"
+            : "Add to Wishlist"
+        }}
       </button>
     </div>
   </div>
