@@ -1,0 +1,3506 @@
+{
+    "key": "/subjects/finance",
+    "name": "Finance",
+    "subject_type": "subject",
+    "work_count": 79587,
+    "works": [
+        {
+            "key": "/works/OL14903581W",
+            "title": "Laws, etc",
+            "edition_count": 3456,
+            "cover_id": 11505604,
+            "cover_edition_key": "OL10053776M",
+            "subject": [
+                "Law",
+                "Statutes",
+                "Law and legislation",
+                "Great Britain",
+                "World War, 1914-1918",
+                "Gt. Brit",
+                "Social security",
+                "Delegated legislation",
+                "Indexes",
+                "Public health laws",
+                "Finance",
+                "Periodicals",
+                "Domestic relations",
+                "Patent laws and legislation",
+                "Early works to 1800",
+                "Cattle",
+                "Law, Anglo-Saxon",
+                "Local government",
+                "Postal service",
+                "Consumer protection",
+                "Taxation",
+                "Educational law and legislation",
+                "Economic aspects of World War, 1914-1918",
+                "Diseases",
+                "Legislation",
+                "Consumer credit",
+                "Income tax",
+                "Military law",
+                "Commercial law",
+                "Veterinary Quarantine",
+                "Government securities",
+                "Laws, statutes",
+                "Old age pensions",
+                "Militia",
+                "Life insurance",
+                "Weights and measures",
+                "Prevention",
+                "Trade regulation",
+                "Rent",
+                "Drill and minor tactics",
+                "Food law and legislation",
+                "Food conservation",
+                "Great britain, politics and government, 1997-2010",
+                "Law, great britain",
+                "Social security, great britain",
+                "Social security, law and legislation"
+            ],
+            "ia_collection": [
+                "americana",
+                "cdl",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "lendinglibrary": false,
+            "printdisabled": true,
+            "lending_edition": "OL7025343M",
+            "lending_identifier": "foodsupplymanual00grearich",
+            "authors": [
+                {
+                    "key": "/authors/OL46053A",
+                    "name": "Great Britain."
+                }
+            ],
+            "first_publish_year": 1691,
+            "ia": "foodsupplymanual00grearich",
+            "public_scan": true,
+            "has_fulltext": true,
+            "availability": {
+                "status": "open",
+                "available_to_browse": false,
+                "available_to_borrow": false,
+                "available_to_waitlist": false,
+                "is_printdisabled": false,
+                "is_readable": true,
+                "is_lendable": false,
+                "is_previewable": true,
+                "identifier": "foodsupplymanual00grearich",
+                "isbn": null,
+                "oclc": null,
+                "openlibrary_work": "OL14903581W",
+                "openlibrary_edition": "OL7025343M",
+                "last_loan_date": null,
+                "num_waitlist": null,
+                "last_waitlist_date": null,
+                "is_restricted": false,
+                "is_browseable": false,
+                "__src__": "core.models.lending.get_availability"
+            }
+        },
+        {
+            "key": "/works/OL565229W",
+            "title": "Financial audit",
+            "edition_count": 402,
+            "cover_id": null,
+            "cover_edition_key": null,
+            "subject": [
+                "American Battle Monuments Commission",
+                "Auditing",
+                "Roads",
+                "Finance",
+                "District of Columbia Highway Trust Fund",
+                "Student loans",
+                "Law and legislation",
+                "Student aid",
+                "United States",
+                "United States. Department of Education",
+                "Appropriations and expenditures",
+                "Accounting",
+                "Medicare",
+                "Medicare Payment Advisory Commission (U.S.)",
+                "Public Finance",
+                "Consolidated Financial statements",
+                "Executive impoundment of appropriated funds"
+            ],
+            "ia_collection": [
+                ""
+            ],
+            "lendinglibrary": false,
+            "printdisabled": false,
+            "lending_edition": "",
+            "lending_identifier": "",
+            "authors": [
+                {
+                    "key": "/authors/OL4489781A",
+                    "name": "United States. General Accounting Office"
+                }
+            ],
+            "first_publish_year": 1943,
+            "ia": null,
+            "public_scan": false,
+            "has_fulltext": false
+        },
+        {
+            "key": "/works/OL12548230W",
+            "title": "Circulaire a MM. les cur\u00e9s du dioc\u00e8se",
+            "edition_count": 362,
+            "cover_id": 8245240,
+            "cover_edition_key": "OL19767123M",
+            "subject": [
+                "Fires",
+                "Church and social problems",
+                "Finance",
+                "Catholic Church",
+                "Incendies",
+                "Finances",
+                "\u00c9glise catholique",
+                "\u00c9glise et probl\u00e8mes sociaux"
+            ],
+            "ia_collection": [
+                "additional_collections",
+                "microfilm",
+                "toronto",
+                "university_of_alberta_libraries",
+                "university_of_alberta_libraries_microfilm"
+            ],
+            "lendinglibrary": false,
+            "printdisabled": false,
+            "lending_edition": "OL19767123M",
+            "lending_identifier": "cihm_56156",
+            "authors": [
+                {
+                    "key": "/authors/OL5561187A",
+                    "name": "Charles-Fran\u00e7ois Baillargeon"
+                }
+            ],
+            "first_publish_year": 1986,
+            "ia": "cihm_56156",
+            "public_scan": true,
+            "has_fulltext": true,
+            "availability": {
+                "status": "open",
+                "available_to_browse": false,
+                "available_to_borrow": false,
+                "available_to_waitlist": false,
+                "is_printdisabled": false,
+                "is_readable": true,
+                "is_lendable": false,
+                "is_previewable": true,
+                "identifier": "cihm_56156",
+                "isbn": "0665561563",
+                "oclc": null,
+                "openlibrary_work": "OL12548230W",
+                "openlibrary_edition": "OL19767123M",
+                "last_loan_date": null,
+                "num_waitlist": null,
+                "last_waitlist_date": null,
+                "is_restricted": false,
+                "is_browseable": false,
+                "__src__": "core.models.lending.get_availability"
+            }
+        },
+        {
+            "key": "/works/OL1513584W",
+            "title": "By the King",
+            "edition_count": 169,
+            "cover_id": null,
+            "cover_edition_key": null,
+            "subject": [
+                "Administration",
+                "Administration of Criminal justice",
+                "Alum industry",
+                "Anti-Catholicism",
+                "Apprentices",
+                "Armor",
+                "Bartholomew Fair (1625 : Smithfield, London, England)",
+                "Bartholomew Fair (1637 : Smithfield, London, England)",
+                "Bermuda Islands",
+                "Billeting",
+                "Bird trapping",
+                "Bits (Bridles)",
+                "Bow and arrow",
+                "Buckle industry",
+                "Building laws",
+                "Butter trade",
+                "Catholics",
+                "Censorship",
+                "Charitable contributions",
+                "Church of England",
+                "Civil status",
+                "Coinage",
+                "Colonies",
+                "Commerce",
+                "Company of Merchant Adventurers of England",
+                "Copyhold",
+                "Corporation of Gardeners",
+                "Corporation of Sope-makers of London",
+                "Court and courtiers",
+                "Courts",
+                "Courts and courtiers",
+                "Criminal justice, Administration of",
+                "Dairy products industry",
+                "Deer hunting",
+                "Defenses",
+                "Dissenters, Religious",
+                "Dyes and dyeing",
+                "Early works to 1800",
+                "East India Company",
+                "Employment",
+                "England",
+                "England and Wales",
+                "England and Wales. Army",
+                "England and Wales. Exchequer",
+                "England and Wales. Parliament",
+                "England and Wales. Parliament. House of Commons",
+                "England and Wales. Royal Navy",
+                "English mercenaries",
+                "Equipment",
+                "Equipment and supplies",
+                "Europe",
+                "Exports",
+                "Fairs",
+                "Fasts and feasts",
+                "Finance",
+                "Finance, Public",
+                "Fishery policy",
+                "Fleetstreet Riot, London, England, 10 July 1629",
+                "Food",
+                "Food law and legislation",
+                "Food prices",
+                "Food supply",
+                "Foreign relations",
+                "Foreign trade regulation",
+                "Forfeiture",
+                "Fowling",
+                "Freedom of movement",
+                "Goldweights",
+                "Grain trade",
+                "Great Britain",
+                "Great Britain Civil War, 1642-1649",
+                "Guild of Weavers of London",
+                "Guilds",
+                "Gunpowder",
+                "Gunpowder industry",
+                "Hat trade",
+                "Hides and skins industry",
+                "Hides and skins trade",
+                "History",
+                "History, Military",
+                "History, Naval",
+                "Horsemanship",
+                "Huguenots",
+                "Indians of North America",
+                "Introduction \u00e0 la vie d\u00e9vote",
+                "Knights and knighthood",
+                "Land tenure",
+                "Law and legislation",
+                "Legal status, laws",
+                "Legal tender",
+                "Lent",
+                "Liturgy",
+                "Madder",
+                "Maintenance and repair",
+                "Meat industry and trade",
+                "Metal-workers",
+                "Military History",
+                "Military discipline",
+                "Military readiness",
+                "Military supplies",
+                "Monetary policy",
+                "Monopolies",
+                "Mutiny",
+                "Naval History",
+                "Naval deserters",
+                "Nitrogen industries",
+                "Officials and employees",
+                "Our Lady Fair (1637 : Southwark, London, England)",
+                "Passports",
+                "Persecution",
+                "Pewter",
+                "Plague",
+                "Politics and government",
+                "Poor laws",
+                "Postal service",
+                "Prevention",
+                "Prices",
+                "Printing industry",
+                "Privateering",
+                "Prize law",
+                "Procedure (Law)",
+                "Proclamations",
+                "Public Finance",
+                "Quality",
+                "Quality control",
+                "Reformed Church",
+                "Relations",
+                "Religious Dissenters",
+                "Religious refugees",
+                "Riots",
+                "Roads",
+                "Rogues and vagabonds",
+                "Royal forests",
+                "Royal households",
+                "Royal touch",
+                "Saltpeter industry",
+                "Scrofula",
+                "Silk",
+                "Silk industry",
+                "Smuggling",
+                "Society of Starch Makers of London",
+                "Soldiers",
+                "Soldiers of fortune",
+                "Sources",
+                "Starch industry",
+                "Stourbridge Fair (1625 : Barnwell, Northamptonshire)",
+                "Taxation",
+                "Tenement houses",
+                "Terms of court",
+                "Textile industry",
+                "Tin industry",
+                "Tobacco industry",
+                "Tobacco use",
+                "Trade associations",
+                "Vagrancy",
+                "Veterans",
+                "Weapons",
+                "Weights and measures",
+                "Wellington Mutiny, 1640",
+                "Wine and wine making",
+                "Wire industry",
+                "Wool industry",
+                "Worshipful Company of Armourers and Brasiers in the City of London"
+            ],
+            "ia_collection": [
+                ""
+            ],
+            "lendinglibrary": false,
+            "printdisabled": false,
+            "lending_edition": "",
+            "lending_identifier": "",
+            "authors": [
+                {
+                    "key": "/authors/OL5097810A",
+                    "name": "England and Wales. Sovereign (1625-1649 : Charles I)."
+                }
+            ],
+            "first_publish_year": 1625,
+            "ia": null,
+            "public_scan": false,
+            "has_fulltext": false
+        },
+        {
+            "key": "/works/OL565231W",
+            "title": "Tax administration",
+            "edition_count": 151,
+            "cover_id": null,
+            "cover_edition_key": null,
+            "subject": [
+                "Abstracts",
+                "Abuse of rights",
+                "Accounting",
+                "Administrative agencies",
+                "Alcohol",
+                "Aliens",
+                "Appropriations and expenditures",
+                "Attitudes",
+                "Auditing",
+                "Automation",
+                "Automobiles",
+                "Bonds",
+                "Boycotts",
+                "Business enterprises",
+                "Compliance auditing",
+                "Corporations",
+                "Correality and solidarity",
+                "Corrupt practices",
+                "Cost effectiveness",
+                "Criminal investigation",
+                "Customer services",
+                "Data processing",
+                "Earned income tax credit",
+                "Electronic data interchange",
+                "Employee attitude surveys",
+                "Employees",
+                "Enterprise zones",
+                "Evaluation",
+                "Excise tax",
+                "Farm income",
+                "Farmers",
+                "Finance",
+                "Flat-rate income tax",
+                "Foreign Corporations",
+                "Foreign Investments",
+                "Foreign income",
+                "Forms",
+                "Fraud",
+                "Fraud investigation",
+                "Government policy",
+                "Government publications",
+                "Grants-in-aid",
+                "Husband and wife",
+                "Illegal aliens",
+                "Income tax",
+                "Information services",
+                "Intergovernmental tax relations",
+                "Internal revenue law",
+                "International business enterprises",
+                "Interpretation and construction",
+                "Joint returns",
+                "Law and legislation",
+                "Management",
+                "Married people",
+                "Money laundering investigation",
+                "Nonprofit organizations",
+                "Officials and employees",
+                "Older people",
+                "Original issue discount (Bonds)",
+                "Payroll tax",
+                "Personnel management",
+                "Poor",
+                "Preferred stocks",
+                "Prevention",
+                "Public contracts",
+                "Records and correspondence",
+                "Reorganization",
+                "Research",
+                "Rules and practice",
+                "Sales tax",
+                "Self-employed",
+                "Service industries workers",
+                "Services for",
+                "Single people",
+                "Small business",
+                "Sole proprietorship",
+                "Spendings tax",
+                "States",
+                "Statistics",
+                "Tax administration",
+                "Tax administration and procedure",
+                "Tax administration and procedures",
+                "Tax auditing",
+                "Tax collection",
+                "Tax consultants",
+                "Tax credits",
+                "Tax deductions",
+                "Tax evasion",
+                "Tax exemption",
+                "Tax incentives",
+                "Tax penalties",
+                "Tax protests and appeals",
+                "Tax refunds",
+                "Tax remission",
+                "Tax returns",
+                "Tax shelters",
+                "Taxation",
+                "Taxpayer Assistance Program",
+                "Taxpayer compliance",
+                "Technological innovations",
+                "Telephone in business",
+                "Telephone systems",
+                "Training of",
+                "Undercover operations",
+                "United States",
+                "United States. Internal Revenue Service",
+                "United States. Internal Revenue Service. Criminal Investigation Division",
+                "United States. Internal Revenue Service. Small Business/Self-Employed Division. Taxpayer Education & Communication",
+                "United States. Internal Revenue Services",
+                "United States. Office of Management and Budget",
+                "Value-added tax",
+                "Wages",
+                "Waste in government spending",
+                "Withholding tax"
+            ],
+            "ia_collection": [
+                ""
+            ],
+            "lendinglibrary": false,
+            "printdisabled": false,
+            "lending_edition": "",
+            "lending_identifier": "",
+            "authors": [
+                {
+                    "key": "/authors/OL4489781A",
+                    "name": "United States. General Accounting Office"
+                }
+            ],
+            "first_publish_year": 1986,
+            "ia": null,
+            "public_scan": false,
+            "has_fulltext": false
+        },
+        {
+            "key": "/works/OL891636W",
+            "title": "The art of money getting, or, Golden rules for money getting",
+            "edition_count": 145,
+            "cover_id": 756095,
+            "cover_edition_key": "OL8408265M",
+            "subject": [
+                "Success",
+                "Finance",
+                "Nonfiction",
+                "Self-Improvement",
+                "Success in business",
+                "Finance, personal",
+                "Income",
+                "Commerce"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "lendinglibrary": false,
+            "printdisabled": true,
+            "lending_edition": "OL35672004M",
+            "lending_identifier": "artofmoneygettin0000ptba",
+            "authors": [
+                {
+                    "key": "/authors/OL78901A",
+                    "name": "P. T. Barnum"
+                }
+            ],
+            "first_publish_year": 1880,
+            "ia": "artofmoneygettin0000ptba",
+            "public_scan": true,
+            "has_fulltext": true,
+            "availability": {
+                "status": "borrow_available",
+                "available_to_browse": true,
+                "available_to_borrow": false,
+                "available_to_waitlist": false,
+                "is_printdisabled": true,
+                "is_readable": false,
+                "is_lendable": true,
+                "is_previewable": true,
+                "identifier": "artofmoneygettin0000ptba",
+                "isbn": "9781603863346",
+                "oclc": null,
+                "openlibrary_work": "OL891636W",
+                "openlibrary_edition": "OL35672004M",
+                "last_loan_date": null,
+                "num_waitlist": null,
+                "last_waitlist_date": null,
+                "is_restricted": true,
+                "is_browseable": true,
+                "__src__": "core.models.lending.get_availability"
+            }
+        },
+        {
+            "key": "/works/OL565230W",
+            "title": "U.S. Postal Service",
+            "edition_count": 134,
+            "cover_id": null,
+            "cover_edition_key": null,
+            "subject": [
+                "Accounting",
+                "Address correction service",
+                "Aguirre International",
+                "Anthrax",
+                "Appropriations and expenditures",
+                "Auditing",
+                "Automation",
+                "Biological decontamination",
+                "Bioterrorism",
+                "Competition",
+                "Consumer satisfaction",
+                "Corporate governance",
+                "Costs",
+                "Criminal investigation",
+                "Customer services",
+                "Disclosure of information",
+                "Diversity in the workplace",
+                "Electronic commerce",
+                "Employee screening",
+                "Employee-management relations in government",
+                "Employees",
+                "Employment",
+                "Evaluation",
+                "Express service",
+                "Finance",
+                "Foreign mail",
+                "Fraud",
+                "Government policy",
+                "Government purchasing of real property",
+                "Industrial relations",
+                "International Competition",
+                "International cooperation",
+                "Land use",
+                "Law and legislation",
+                "Letter mail handling",
+                "Mail surveys",
+                "Management",
+                "Minorities",
+                "Officials and employees",
+                "Parcel post",
+                "Personnel management",
+                "Planning",
+                "Post office stations and branches",
+                "Postal rates",
+                "Postal service",
+                "Postmasters",
+                "Prevention",
+                "Privacy",
+                "Privatization",
+                "Procurement",
+                "Promotions",
+                "Rates",
+                "Reform",
+                "Reorganization",
+                "Research",
+                "Right of Privacy",
+                "Rules and practice",
+                "Salaries",
+                "Statistics",
+                "Telecommunication policy",
+                "Third-class matter",
+                "United States",
+                "United States Postal Service",
+                "United States Postal Service. Postal Inspection Service",
+                "United States Postal Servicen",
+                "United States Postal Services",
+                "United States. Postal Service",
+                "Women",
+                "Work sharing",
+                "United States. Postal service"
+            ],
+            "ia_collection": [
+                ""
+            ],
+            "lendinglibrary": false,
+            "printdisabled": false,
+            "lending_edition": "",
+            "lending_identifier": "",
+            "authors": [
+                {
+                    "key": "/authors/OL4489781A",
+                    "name": "United States. General Accounting Office"
+                }
+            ],
+            "first_publish_year": 1987,
+            "ia": null,
+            "public_scan": false,
+            "has_fulltext": false
+        },
+        {
+            "key": "/works/OL2829091W",
+            "title": "Reconfigurable Processor Array A Bit Sliced Parallel Computer (USA)",
+            "edition_count": 132,
+            "cover_id": 8237007,
+            "cover_edition_key": "OL10230058M",
+            "subject": [
+                "Industrial safety",
+                "Management",
+                "Macroeconomics",
+                "Microeconomics",
+                "Economics",
+                "Database management",
+                "DBase III plus (Computer file)",
+                "Marketing",
+                "Case studies",
+                "Cases",
+                "Collective labor agreements",
+                "IBM Personal Computer",
+                "Lotus 1-2-3 (Computer file)",
+                "Programming",
+                "PC-DOS (Computer file)",
+                "WordPerfect (Computer file)",
+                "Problems, exercises",
+                "Business mathematics",
+                "Economic conditions",
+                "Managerial accounting",
+                "Examinations, questions",
+                "Corporations",
+                "Finance",
+                "Heat",
+                "Transmission",
+                "DBASE III plus (Computer file)",
+                "Capital market",
+                "Study and teaching",
+                "Financial analysis"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled",
+                "wrlc-ol"
+            ],
+            "lendinglibrary": false,
+            "printdisabled": true,
+            "lending_edition": "OL10230291M",
+            "lending_identifier": "reconfigurablepr0000arus_o6v1",
+            "authors": [
+                {
+                    "key": "/authors/OL422557A",
+                    "name": "A. Rushton"
+                }
+            ],
+            "first_publish_year": 1986,
+            "ia": "reconfigurablepr0000arus_o6v1",
+            "public_scan": false,
+            "has_fulltext": true,
+            "availability": {
+                "status": "borrow_available",
+                "available_to_browse": true,
+                "available_to_borrow": false,
+                "available_to_waitlist": false,
+                "is_printdisabled": true,
+                "is_readable": false,
+                "is_lendable": true,
+                "is_previewable": true,
+                "identifier": "reconfigurablepr0000arus_o6v1",
+                "isbn": "9780256084948",
+                "oclc": null,
+                "openlibrary_work": "OL2829091W",
+                "openlibrary_edition": "OL10230291M",
+                "last_loan_date": null,
+                "num_waitlist": null,
+                "last_waitlist_date": null,
+                "is_restricted": true,
+                "is_browseable": true,
+                "__src__": "core.models.lending.get_availability"
+            }
+        },
+        {
+            "key": "/works/OL11350239W",
+            "title": "Laws, etc",
+            "edition_count": 124,
+            "cover_id": 11761863,
+            "cover_edition_key": "OL15402753M",
+            "subject": [
+                "Armies",
+                "Attachment and garnishment",
+                "Church of England",
+                "Customs administration",
+                "Early works to 1800",
+                "England and Wales",
+                "England and Wales. Army",
+                "England and Wales. Parliament",
+                "Equipment",
+                "Finance",
+                "Foreign trade regulation",
+                "Government",
+                "Great Britain Civil War, 1642-1649",
+                "History",
+                "History, Military",
+                "Internal revenue law",
+                "Law",
+                "Law and legislation",
+                "Liquor industry",
+                "Liturgy",
+                "Meat",
+                "Military History",
+                "Mines and mineral resources",
+                "Ordination",
+                "Pensions",
+                "Plague",
+                "Politics and government",
+                "Postal service",
+                "Protestants",
+                "Public welfare",
+                "Recruiting, enlistment",
+                "Salaries",
+                "Salt",
+                "Seal",
+                "Session laws",
+                "Solemn League and Covenant",
+                "Sources",
+                "Tariff",
+                "Tax collection",
+                "Taxation",
+                "Taxation of articles of consumption",
+                "Westminster Assembly (1643-1652)",
+                "Wine and wine making",
+                "Controversial literature",
+                "Statues",
+                "Law reports, digests",
+                "Jesuits"
+            ],
+            "ia_collection": [
+                "Boston_College_Library",
+                "americana",
+                "blc"
+            ],
+            "lendinglibrary": false,
+            "printdisabled": false,
+            "lending_edition": "OL15402753M",
+            "lending_identifier": "annoxxviireginel00engl",
+            "authors": [
+                {
+                    "key": "/authors/OL4768277A",
+                    "name": "England and Wales"
+                }
+            ],
+            "first_publish_year": 1513,
+            "ia": "annoxxviireginel00engl",
+            "public_scan": true,
+            "has_fulltext": true,
+            "availability": {
+                "status": "open",
+                "available_to_browse": false,
+                "available_to_borrow": false,
+                "available_to_waitlist": false,
+                "is_printdisabled": false,
+                "is_readable": true,
+                "is_lendable": false,
+                "is_previewable": true,
+                "identifier": "annoxxviireginel00engl",
+                "isbn": null,
+                "oclc": null,
+                "openlibrary_work": "OL11350239W",
+                "openlibrary_edition": "OL15402753M",
+                "last_loan_date": null,
+                "num_waitlist": null,
+                "last_waitlist_date": null,
+                "is_restricted": false,
+                "is_browseable": false,
+                "__src__": "core.models.lending.get_availability"
+            }
+        }
+    ],
+    "ebook_count": 16368,
+    "subjects": [
+        {
+            "key": "/subjects/law_and_legislation",
+            "name": "Law and legislation",
+            "count": 7117
+        },
+        {
+            "key": "/subjects/corporations",
+            "name": "Corporations",
+            "count": 5688
+        },
+        {
+            "key": "/subjects/history",
+            "name": "History",
+            "count": 4704
+        },
+        {
+            "key": "/subjects/education",
+            "name": "Education",
+            "count": 4634
+        },
+        {
+            "key": "/subjects/united_states",
+            "name": "United States",
+            "count": 3875
+        },
+        {
+            "key": "/subjects/small_business",
+            "name": "Small business",
+            "count": 3055
+        },
+        {
+            "key": "/subjects/banks_and_banking",
+            "name": "Banks and banking",
+            "count": 3037
+        },
+        {
+            "key": "/subjects/economic_conditions",
+            "name": "Economic conditions",
+            "count": 2936
+        },
+        {
+            "key": "/subjects/business_enterprises",
+            "name": "Business enterprises",
+            "count": 2864
+        },
+        {
+            "key": "/subjects/appropriations_and_expenditures",
+            "name": "Appropriations and expenditures",
+            "count": 2681
+        },
+        {
+            "key": "/subjects/management",
+            "name": "Management",
+            "count": 2357
+        },
+        {
+            "key": "/subjects/congresses",
+            "name": "Congresses",
+            "count": 2288
+        },
+        {
+            "key": "/subjects/business",
+            "name": "Business",
+            "count": 2266
+        },
+        {
+            "key": "/subjects/housing",
+            "name": "Housing",
+            "count": 2248
+        },
+        {
+            "key": "/subjects/finances",
+            "name": "Finances",
+            "count": 2177
+        },
+        {
+            "key": "/subjects/statistics",
+            "name": "Statistics",
+            "count": 2129
+        },
+        {
+            "key": "/subjects/government_policy",
+            "name": "Government policy",
+            "count": 2127
+        },
+        {
+            "key": "/subjects/nonfiction",
+            "name": "Nonfiction",
+            "count": 2112
+        },
+        {
+            "key": "/subjects/accounting",
+            "name": "Accounting",
+            "count": 2029
+        },
+        {
+            "key": "/subjects/economic_policy",
+            "name": "Economic policy",
+            "count": 1943
+        },
+        {
+            "key": "/subjects/investments",
+            "name": "Investments",
+            "count": 1855
+        },
+        {
+            "key": "/subjects/economics",
+            "name": "Economics",
+            "count": 1835
+        },
+        {
+            "key": "/subjects/universities_and_colleges",
+            "name": "Universities and colleges",
+            "count": 1773
+        },
+        {
+            "key": "/subjects/taxation",
+            "name": "Taxation",
+            "count": 1745
+        }
+    ],
+    "places": [
+        {
+            "key": "/subjects/place:united_states",
+            "name": "United States",
+            "count": 18195
+        },
+        {
+            "key": "/subjects/place:china",
+            "name": "China",
+            "count": 2344
+        },
+        {
+            "key": "/subjects/place:great_britain",
+            "name": "Great Britain",
+            "count": 2241
+        },
+        {
+            "key": "/subjects/place:france",
+            "name": "France",
+            "count": 1577
+        },
+        {
+            "key": "/subjects/place:canada",
+            "name": "Canada",
+            "count": 1353
+        },
+        {
+            "key": "/subjects/place:japan",
+            "name": "Japan",
+            "count": 1328
+        },
+        {
+            "key": "/subjects/place:germany",
+            "name": "Germany",
+            "count": 1220
+        },
+        {
+            "key": "/subjects/place:developing_countries",
+            "name": "Developing countries",
+            "count": 1065
+        },
+        {
+            "key": "/subjects/place:new_york_(state)",
+            "name": "New York (State)",
+            "count": 1054
+        },
+        {
+            "key": "/subjects/place:india",
+            "name": "India",
+            "count": 900
+        },
+        {
+            "key": "/subjects/place:california",
+            "name": "California",
+            "count": 828
+        },
+        {
+            "key": "/subjects/place:russia_(federation)",
+            "name": "Russia (Federation)",
+            "count": 728
+        },
+        {
+            "key": "/subjects/place:italy",
+            "name": "Italy",
+            "count": 684
+        },
+        {
+            "key": "/subjects/place:brazil",
+            "name": "Brazil",
+            "count": 656
+        },
+        {
+            "key": "/subjects/place:soviet_union",
+            "name": "Soviet Union",
+            "count": 604
+        },
+        {
+            "key": "/subjects/place:europe",
+            "name": "Europe",
+            "count": 585
+        },
+        {
+            "key": "/subjects/place:ontario",
+            "name": "Ontario",
+            "count": 582
+        },
+        {
+            "key": "/subjects/place:massachusetts",
+            "name": "Massachusetts",
+            "count": 531
+        },
+        {
+            "key": "/subjects/place:washington_(state)",
+            "name": "Washington (State)",
+            "count": 497
+        },
+        {
+            "key": "/subjects/place:germany_(west)",
+            "name": "Germany (West)",
+            "count": 485
+        },
+        {
+            "key": "/subjects/place:spain",
+            "name": "Spain",
+            "count": 444
+        },
+        {
+            "key": "/subjects/place:korea_(south)",
+            "name": "Korea (South)",
+            "count": 381
+        },
+        {
+            "key": "/subjects/place:england",
+            "name": "England",
+            "count": 366
+        },
+        {
+            "key": "/subjects/place:poland",
+            "name": "Poland",
+            "count": 355
+        },
+        {
+            "key": "/subjects/place:mexico",
+            "name": "Mexico",
+            "count": 354
+        }
+    ],
+    "people": [
+        {
+            "key": "/subjects/person:jacques_necker_(1732-1804)",
+            "name": "Jacques Necker (1732-1804)",
+            "count": 16
+        },
+        {
+            "key": "/subjects/person:warren_buffett",
+            "name": "Warren Buffett",
+            "count": 13
+        },
+        {
+            "key": "/subjects/person:john_law_(1671-1729)",
+            "name": "John Law (1671-1729)",
+            "count": 12
+        },
+        {
+            "key": "/subjects/person:abraham_lincoln_(1809-1865)",
+            "name": "Abraham Lincoln (1809-1865)",
+            "count": 8
+        },
+        {
+            "key": "/subjects/person:john_maynard_keynes_(1883-1946)",
+            "name": "John Maynard Keynes (1883-1946)",
+            "count": 8
+        },
+        {
+            "key": "/subjects/person:roberto_calvi_(1920-1982)",
+            "name": "Roberto Calvi (1920-1982)",
+            "count": 8
+        },
+        {
+            "key": "/subjects/person:gaspar_de_jovellanos_(1744-1811)",
+            "name": "Gaspar de Jovellanos (1744-1811)",
+            "count": 7
+        },
+        {
+            "key": "/subjects/person:j._pierpont_morgan_(1837-1913)",
+            "name": "J. Pierpont Morgan (1837-1913)",
+            "count": 7
+        },
+        {
+            "key": "/subjects/person:karl_marx_(1818-1883)",
+            "name": "Karl Marx (1818-1883)",
+            "count": 7
+        },
+        {
+            "key": "/subjects/person:w._e._gladstone_(1809-1898)",
+            "name": "W. E. Gladstone (1809-1898)",
+            "count": 7
+        },
+        {
+            "key": "/subjects/person:anne-robert-jacques_turgot_baron_de_l'aulne_(1727-1781)",
+            "name": "Anne-Robert-Jacques Turgot baron de l'Aulne (1727-1781)",
+            "count": 6
+        },
+        {
+            "key": "/subjects/person:charles_iii_king_of_spain_(1716-1788)",
+            "name": "Charles III King of Spain (1716-1788)",
+            "count": 6
+        },
+        {
+            "key": "/subjects/person:manuel_de_godoy_pr\u00edncipe_de_la_paz_(1767-1851)",
+            "name": "Manuel de Godoy pr\u00edncipe de la Paz (1767-1851)",
+            "count": 6
+        },
+        {
+            "key": "/subjects/person:michele_sindona",
+            "name": "Michele Sindona",
+            "count": 6
+        },
+        {
+            "key": "/subjects/person:napoleon_i_emperor_of_the_french_(1769-1821)",
+            "name": "Napoleon I Emperor of the French (1769-1821)",
+            "count": 6
+        },
+        {
+            "key": "/subjects/person:benjamin_franklin_(1706-1790)",
+            "name": "Benjamin Franklin (1706-1790)",
+            "count": 5
+        },
+        {
+            "key": "/subjects/person:charles_alexandre_de_calonne_(1734-1802)",
+            "name": "Charles Alexandre de Calonne (1734-1802)",
+            "count": 5
+        },
+        {
+            "key": "/subjects/person:franklin_d._roosevelt_(1882-1945)",
+            "name": "Franklin D. Roosevelt (1882-1945)",
+            "count": 5
+        },
+        {
+            "key": "/subjects/person:herbert_hoover_(1874-1964)",
+            "name": "Herbert Hoover (1874-1964)",
+            "count": 5
+        },
+        {
+            "key": "/subjects/person:jean_fran\u00e7ois_melon_(1675-1738)",
+            "name": "Jean Fran\u00e7ois Melon (1675-1738)",
+            "count": 5
+        },
+        {
+            "key": "/subjects/person:mary_reeside",
+            "name": "Mary Reeside",
+            "count": 5
+        },
+        {
+            "key": "/subjects/person:montagu_norman_(1871-)",
+            "name": "Montagu Norman (1871-)",
+            "count": 5
+        },
+        {
+            "key": "/subjects/person:william_knox_(1732-1810)",
+            "name": "William Knox (1732-1810)",
+            "count": 5
+        },
+        {
+            "key": "/subjects/person:william_pitt_(1759-1806)",
+            "name": "William Pitt (1759-1806)",
+            "count": 5
+        },
+        {
+            "key": "/subjects/person:adolf_hitler_(1889-1945)",
+            "name": "Adolf Hitler (1889-1945)",
+            "count": 4
+        }
+    ],
+    "times": [
+        {
+            "key": "/subjects/time:20th_century",
+            "name": "20th century",
+            "count": 523
+        },
+        {
+            "key": "/subjects/time:21st_century",
+            "name": "21st century",
+            "count": 274
+        },
+        {
+            "key": "/subjects/time:19th_century",
+            "name": "19th century",
+            "count": 246
+        },
+        {
+            "key": "/subjects/time:1991-",
+            "name": "1991-",
+            "count": 226
+        },
+        {
+            "key": "/subjects/time:revolution_1789-1799",
+            "name": "Revolution, 1789-1799",
+            "count": 208
+        },
+        {
+            "key": "/subjects/time:1918-1945",
+            "name": "1918-1945",
+            "count": 188
+        },
+        {
+            "key": "/subjects/time:1945-",
+            "name": "1945-",
+            "count": 176
+        },
+        {
+            "key": "/subjects/time:18th_century",
+            "name": "18th century",
+            "count": 122
+        },
+        {
+            "key": "/subjects/time:1976-2000",
+            "name": "1976-2000",
+            "count": 120
+        },
+        {
+            "key": "/subjects/time:civil_war_1861-1865",
+            "name": "Civil War, 1861-1865",
+            "count": 118
+        },
+        {
+            "key": "/subjects/time:revolution_1775-1783",
+            "name": "Revolution, 1775-1783",
+            "count": 113
+        },
+        {
+            "key": "/subjects/time:1918-",
+            "name": "1918-",
+            "count": 108
+        },
+        {
+            "key": "/subjects/time:2000-",
+            "name": "2000-",
+            "count": 99
+        },
+        {
+            "key": "/subjects/time:1989-",
+            "name": "1989-",
+            "count": 95
+        },
+        {
+            "key": "/subjects/time:2009-",
+            "name": "2009-",
+            "count": 54
+        },
+        {
+            "key": "/subjects/time:directory_1795-1799",
+            "name": "Directory, 1795-1799",
+            "count": 51
+        },
+        {
+            "key": "/subjects/time:17th_century",
+            "name": "17th century",
+            "count": 49
+        },
+        {
+            "key": "/subjects/time:1990-",
+            "name": "1990-",
+            "count": 46
+        },
+        {
+            "key": "/subjects/time:1945-1989",
+            "name": "1945-1989",
+            "count": 39
+        },
+        {
+            "key": "/subjects/time:16th_century",
+            "name": "16th century",
+            "count": 36
+        },
+        {
+            "key": "/subjects/time:1960-",
+            "name": "1960-",
+            "count": 35
+        },
+        {
+            "key": "/subjects/time:2001-2009",
+            "name": "2001-2009",
+            "count": 32
+        },
+        {
+            "key": "/subjects/time:1912-1949",
+            "name": "1912-1949",
+            "count": 31
+        },
+        {
+            "key": "/subjects/time:to_1500",
+            "name": "To 1500",
+            "count": 31
+        },
+        {
+            "key": "/subjects/time:1775-1783",
+            "name": "1775-1783",
+            "count": 30
+        }
+    ],
+    "authors": [
+        {
+            "name": "United States. General Accounting Office",
+            "key": "/authors/OL4489781A",
+            "count": 783
+        },
+        {
+            "name": "United States",
+            "key": "/authors/OL18485A",
+            "count": 592
+        },
+        {
+            "name": "United States. Congress. House",
+            "key": "/authors/OL4529419A",
+            "count": 313
+        },
+        {
+            "name": "United States. Congress. Senate",
+            "key": "/authors/OL4610079A",
+            "count": 211
+        },
+        {
+            "name": "United States. Government Accountability Office",
+            "key": "/authors/OL6850408A",
+            "count": 171
+        },
+        {
+            "name": "United States. Congress. Senate. Committee on Finance",
+            "key": "/authors/OL4522330A",
+            "count": 153
+        },
+        {
+            "name": "United States. Congress. Senate. Committee on Appropriations",
+            "key": "/authors/OL4521848A",
+            "count": 110
+        },
+        {
+            "name": "United States. Congress. Senate. Committee on Commerce, Science, and Transportation.",
+            "key": "/authors/OL51624A",
+            "count": 106
+        },
+        {
+            "name": "United States. Congress. House. Committee on Ways and Means",
+            "key": "/authors/OL4527173A",
+            "count": 104
+        },
+        {
+            "name": "United States. Congress. Senate. Committee on Energy and Natural Resources.",
+            "key": "/authors/OL43204A",
+            "count": 103
+        },
+        {
+            "name": "United States. Congress. House. Committee on Small Business.",
+            "key": "/authors/OL47361A",
+            "count": 103
+        },
+        {
+            "name": "United States. Congress. Senate. Committee on Environment and Public Works.",
+            "key": "/authors/OL48172A",
+            "count": 101
+        },
+        {
+            "name": "Frank J. Fabozzi",
+            "key": "/authors/OL23354A",
+            "count": 99
+        },
+        {
+            "name": "World Bank",
+            "key": "/authors/OL10736A",
+            "count": 98
+        },
+        {
+            "name": "United States. Congress. Senate. Committee on Indian Affairs (1993- )",
+            "key": "/authors/OL43227A",
+            "count": 92
+        },
+        {
+            "name": "United States. Congress. Senate. Committee on Banking, Housing, and Urban Affairs.",
+            "key": "/authors/OL47444A",
+            "count": 90
+        },
+        {
+            "name": "United States. Congress. Senate. Committee on Armed Services.",
+            "key": "/authors/OL51762A",
+            "count": 78
+        },
+        {
+            "name": "United States. Congress. House. Committee on Appropriations",
+            "key": "/authors/OL4522961A",
+            "count": 77
+        },
+        {
+            "name": "United States. Congress. House. Committee on Energy and Commerce",
+            "key": "/authors/OL4530965A",
+            "count": 75
+        },
+        {
+            "name": "United States. Congress. House. Committee on Transportation and Infrastructure",
+            "key": "/authors/OL4595462A",
+            "count": 73
+        },
+        {
+            "name": "United States. Congress. House. Committee on the Judiciary",
+            "key": "/authors/OL4523254A",
+            "count": 72
+        },
+        {
+            "name": "United States. Congress. House. Committee on Rules.",
+            "key": "/authors/OL47374A",
+            "count": 67
+        },
+        {
+            "name": "United States. Congress. Senate. Committee on Foreign Relations",
+            "key": "/authors/OL4521469A",
+            "count": 66
+        },
+        {
+            "name": "U. S. Congress",
+            "key": "/authors/OL2799028A",
+            "count": 65
+        },
+        {
+            "name": "United States. Congress. Senate. Committee on Labor and Human Resources.",
+            "key": "/authors/OL47453A",
+            "count": 65
+        }
+    ],
+    "publishers": [
+        {
+            "name": "U.S. G.P.O.",
+            "count": 5974,
+            "key": "/publishers/U.S._G.P.O."
+        },
+        {
+            "name": "Sine nomine",
+            "count": 1622,
+            "key": "/publishers/Sine_nomine"
+        },
+        {
+            "name": "For sale by the Supt. of Docs., U.S. G.P.O.",
+            "count": 1496,
+            "key": "/publishers/For_sale_by_the_Supt._of_Docs.,_U.S._G.P.O."
+        },
+        {
+            "name": "McGraw-Hill",
+            "count": 1154,
+            "key": "/publishers/McGraw-Hill"
+        },
+        {
+            "name": "Taylor & Francis Group",
+            "count": 1135,
+            "key": "/publishers/Taylor_&_Francis_Group"
+        },
+        {
+            "name": "Wiley",
+            "count": 1047,
+            "key": "/publishers/Wiley"
+        },
+        {
+            "name": "For sale by the U.S. G.P.O., Supt. of Docs., Congressional Sales Office",
+            "count": 1029,
+            "key": "/publishers/For_sale_by_the_U.S._G.P.O.,_Supt._of_Docs.,_Congressional_Sales_Office"
+        },
+        {
+            "name": "The Office",
+            "count": 1008,
+            "key": "/publishers/The_Office"
+        },
+        {
+            "name": "U.S. Govt. Print. Off.",
+            "count": 823,
+            "key": "/publishers/U.S._Govt._Print._Off."
+        },
+        {
+            "name": "Wiley & Sons, Incorporated, John",
+            "count": 749,
+            "key": "/publishers/Wiley_&_Sons,_Incorporated,_John"
+        },
+        {
+            "name": "John Wiley & Sons, Ltd.",
+            "count": 672,
+            "key": "/publishers/John_Wiley_&_Sons,_Ltd."
+        },
+        {
+            "name": "Routledge",
+            "count": 642,
+            "key": "/publishers/Routledge"
+        },
+        {
+            "name": "Springer",
+            "count": 591,
+            "key": "/publishers/Springer"
+        },
+        {
+            "name": "National Bureau of Economic Research",
+            "count": 499,
+            "key": "/publishers/National_Bureau_of_Economic_Research"
+        },
+        {
+            "name": "The Office [distributor",
+            "count": 493,
+            "key": "/publishers/The_Office_[distributor"
+        },
+        {
+            "name": "For sale by the Supt. of Docs., Congressional Sales Office, U.S. G.P.O.",
+            "count": 453,
+            "key": "/publishers/For_sale_by_the_Supt._of_Docs.,_Congressional_Sales_Office,_U.S._G.P.O."
+        },
+        {
+            "name": "Palgrave Macmillan",
+            "count": 436,
+            "key": "/publishers/Palgrave_Macmillan"
+        },
+        {
+            "name": "World Bank",
+            "count": 434,
+            "key": "/publishers/World_Bank"
+        },
+        {
+            "name": "Wiley & Sons, Limited, John",
+            "count": 346,
+            "key": "/publishers/Wiley_&_Sons,_Limited,_John"
+        },
+        {
+            "name": "The Committee",
+            "count": 337,
+            "key": "/publishers/The_Committee"
+        },
+        {
+            "name": "International Monetary Fund",
+            "count": 331,
+            "key": "/publishers/International_Monetary_Fund"
+        },
+        {
+            "name": "John Wiley & Sons",
+            "count": 316,
+            "key": "/publishers/John_Wiley_&_Sons"
+        },
+        {
+            "name": "Oxford University Press",
+            "count": 293,
+            "key": "/publishers/Oxford_University_Press"
+        },
+        {
+            "name": "Duncker & Humblot",
+            "count": 291,
+            "key": "/publishers/Duncker_&_Humblot"
+        },
+        {
+            "name": "The Commission",
+            "count": 277,
+            "key": "/publishers/The_Commission"
+        }
+    ],
+    "languages": [
+        {
+            "name": "eng",
+            "count": 56243
+        },
+        {
+            "name": "ger",
+            "count": 3496
+        },
+        {
+            "name": "fre",
+            "count": 3240
+        },
+        {
+            "name": "spa",
+            "count": 2383
+        },
+        {
+            "name": "chi",
+            "count": 2371
+        },
+        {
+            "name": "rus",
+            "count": 2129
+        },
+        {
+            "name": "jpn",
+            "count": 1817
+        },
+        {
+            "name": "ita",
+            "count": 959
+        },
+        {
+            "name": "por",
+            "count": 781
+        },
+        {
+            "name": "kor",
+            "count": 493
+        },
+        {
+            "name": "cmn",
+            "count": 404
+        },
+        {
+            "name": "pol",
+            "count": 378
+        },
+        {
+            "name": "ara",
+            "count": 323
+        },
+        {
+            "name": "dut",
+            "count": 322
+        },
+        {
+            "name": "swe",
+            "count": 208
+        },
+        {
+            "name": "ind",
+            "count": 205
+        },
+        {
+            "name": "heb",
+            "count": 172
+        },
+        {
+            "name": "hun",
+            "count": 165
+        },
+        {
+            "name": "und",
+            "count": 151
+        },
+        {
+            "name": "tur",
+            "count": 147
+        },
+        {
+            "name": "ukr",
+            "count": 132
+        },
+        {
+            "name": "dan",
+            "count": 131
+        },
+        {
+            "name": "fin",
+            "count": 109
+        },
+        {
+            "name": "vie",
+            "count": 98
+        },
+        {
+            "name": "scr",
+            "count": 93
+        }
+    ],
+    "publishing_history": [
+        [
+            1009,
+            1
+        ],
+        [
+            1488,
+            1
+        ],
+        [
+            1497,
+            1
+        ],
+        [
+            1503,
+            2
+        ],
+        [
+            1508,
+            1
+        ],
+        [
+            1513,
+            2
+        ],
+        [
+            1515,
+            2
+        ],
+        [
+            1516,
+            2
+        ],
+        [
+            1520,
+            2
+        ],
+        [
+            1523,
+            2
+        ],
+        [
+            1525,
+            1
+        ],
+        [
+            1533,
+            1
+        ],
+        [
+            1534,
+            1
+        ],
+        [
+            1536,
+            1
+        ],
+        [
+            1538,
+            1
+        ],
+        [
+            1540,
+            1
+        ],
+        [
+            1543,
+            1
+        ],
+        [
+            1547,
+            1
+        ],
+        [
+            1553,
+            2
+        ],
+        [
+            1554,
+            1
+        ],
+        [
+            1555,
+            1
+        ],
+        [
+            1556,
+            1
+        ],
+        [
+            1558,
+            1
+        ],
+        [
+            1559,
+            4
+        ],
+        [
+            1560,
+            2
+        ],
+        [
+            1561,
+            1
+        ],
+        [
+            1562,
+            1
+        ],
+        [
+            1563,
+            1
+        ],
+        [
+            1564,
+            2
+        ],
+        [
+            1566,
+            1
+        ],
+        [
+            1567,
+            1
+        ],
+        [
+            1568,
+            1
+        ],
+        [
+            1571,
+            1
+        ],
+        [
+            1575,
+            2
+        ],
+        [
+            1577,
+            1
+        ],
+        [
+            1578,
+            2
+        ],
+        [
+            1580,
+            1
+        ],
+        [
+            1581,
+            2
+        ],
+        [
+            1582,
+            2
+        ],
+        [
+            1585,
+            3
+        ],
+        [
+            1587,
+            2
+        ],
+        [
+            1588,
+            1
+        ],
+        [
+            1589,
+            1
+        ],
+        [
+            1591,
+            1
+        ],
+        [
+            1592,
+            1
+        ],
+        [
+            1595,
+            1
+        ],
+        [
+            1596,
+            2
+        ],
+        [
+            1598,
+            1
+        ],
+        [
+            1601,
+            1
+        ],
+        [
+            1607,
+            2
+        ],
+        [
+            1608,
+            1
+        ],
+        [
+            1610,
+            3
+        ],
+        [
+            1612,
+            1
+        ],
+        [
+            1614,
+            1
+        ],
+        [
+            1615,
+            5
+        ],
+        [
+            1616,
+            1
+        ],
+        [
+            1619,
+            2
+        ],
+        [
+            1620,
+            2
+        ],
+        [
+            1623,
+            1
+        ],
+        [
+            1624,
+            1
+        ],
+        [
+            1625,
+            3
+        ],
+        [
+            1626,
+            2
+        ],
+        [
+            1627,
+            1
+        ],
+        [
+            1628,
+            1
+        ],
+        [
+            1629,
+            2
+        ],
+        [
+            1630,
+            2
+        ],
+        [
+            1631,
+            1
+        ],
+        [
+            1632,
+            2
+        ],
+        [
+            1633,
+            1
+        ],
+        [
+            1634,
+            1
+        ],
+        [
+            1635,
+            1
+        ],
+        [
+            1636,
+            1
+        ],
+        [
+            1637,
+            1
+        ],
+        [
+            1638,
+            1
+        ],
+        [
+            1639,
+            1
+        ],
+        [
+            1640,
+            1
+        ],
+        [
+            1641,
+            1
+        ],
+        [
+            1642,
+            9
+        ],
+        [
+            1643,
+            3
+        ],
+        [
+            1644,
+            4
+        ],
+        [
+            1645,
+            1
+        ],
+        [
+            1646,
+            2
+        ],
+        [
+            1647,
+            4
+        ],
+        [
+            1648,
+            4
+        ],
+        [
+            1649,
+            5
+        ],
+        [
+            1650,
+            4
+        ],
+        [
+            1651,
+            7
+        ],
+        [
+            1652,
+            7
+        ],
+        [
+            1653,
+            8
+        ],
+        [
+            1654,
+            1
+        ],
+        [
+            1655,
+            2
+        ],
+        [
+            1656,
+            4
+        ],
+        [
+            1657,
+            3
+        ],
+        [
+            1658,
+            2
+        ],
+        [
+            1659,
+            4
+        ],
+        [
+            1661,
+            1
+        ],
+        [
+            1662,
+            7
+        ],
+        [
+            1663,
+            1
+        ],
+        [
+            1664,
+            2
+        ],
+        [
+            1665,
+            2
+        ],
+        [
+            1667,
+            3
+        ],
+        [
+            1668,
+            1
+        ],
+        [
+            1671,
+            2
+        ],
+        [
+            1672,
+            1
+        ],
+        [
+            1673,
+            1
+        ],
+        [
+            1674,
+            3
+        ],
+        [
+            1675,
+            6
+        ],
+        [
+            1677,
+            2
+        ],
+        [
+            1678,
+            1
+        ],
+        [
+            1679,
+            1
+        ],
+        [
+            1680,
+            1
+        ],
+        [
+            1681,
+            3
+        ],
+        [
+            1683,
+            2
+        ],
+        [
+            1685,
+            1
+        ],
+        [
+            1687,
+            1
+        ],
+        [
+            1689,
+            3
+        ],
+        [
+            1690,
+            1
+        ],
+        [
+            1691,
+            3
+        ],
+        [
+            1692,
+            1
+        ],
+        [
+            1694,
+            8
+        ],
+        [
+            1695,
+            4
+        ],
+        [
+            1696,
+            8
+        ],
+        [
+            1697,
+            5
+        ],
+        [
+            1698,
+            2
+        ],
+        [
+            1699,
+            4
+        ],
+        [
+            1700,
+            4
+        ],
+        [
+            1701,
+            4
+        ],
+        [
+            1702,
+            2
+        ],
+        [
+            1704,
+            3
+        ],
+        [
+            1705,
+            3
+        ],
+        [
+            1706,
+            2
+        ],
+        [
+            1707,
+            4
+        ],
+        [
+            1708,
+            3
+        ],
+        [
+            1709,
+            1
+        ],
+        [
+            1710,
+            1
+        ],
+        [
+            1711,
+            5
+        ],
+        [
+            1712,
+            1
+        ],
+        [
+            1713,
+            9
+        ],
+        [
+            1715,
+            3
+        ],
+        [
+            1716,
+            1
+        ],
+        [
+            1717,
+            3
+        ],
+        [
+            1718,
+            1
+        ],
+        [
+            1719,
+            1
+        ],
+        [
+            1720,
+            11
+        ],
+        [
+            1721,
+            6
+        ],
+        [
+            1723,
+            5
+        ],
+        [
+            1727,
+            3
+        ],
+        [
+            1728,
+            4
+        ],
+        [
+            1729,
+            1
+        ],
+        [
+            1730,
+            2
+        ],
+        [
+            1731,
+            3
+        ],
+        [
+            1732,
+            1
+        ],
+        [
+            1733,
+            2
+        ],
+        [
+            1734,
+            1
+        ],
+        [
+            1735,
+            3
+        ],
+        [
+            1736,
+            3
+        ],
+        [
+            1737,
+            5
+        ],
+        [
+            1738,
+            7
+        ],
+        [
+            1739,
+            4
+        ],
+        [
+            1740,
+            3
+        ],
+        [
+            1741,
+            9
+        ],
+        [
+            1742,
+            8
+        ],
+        [
+            1743,
+            5
+        ],
+        [
+            1744,
+            3
+        ],
+        [
+            1745,
+            5
+        ],
+        [
+            1746,
+            1
+        ],
+        [
+            1747,
+            1
+        ],
+        [
+            1748,
+            6
+        ],
+        [
+            1749,
+            4
+        ],
+        [
+            1750,
+            4
+        ],
+        [
+            1751,
+            3
+        ],
+        [
+            1752,
+            1
+        ],
+        [
+            1753,
+            5
+        ],
+        [
+            1754,
+            20
+        ],
+        [
+            1755,
+            3
+        ],
+        [
+            1756,
+            6
+        ],
+        [
+            1757,
+            7
+        ],
+        [
+            1758,
+            9
+        ],
+        [
+            1759,
+            7
+        ],
+        [
+            1760,
+            8
+        ],
+        [
+            1761,
+            11
+        ],
+        [
+            1762,
+            5
+        ],
+        [
+            1763,
+            6
+        ],
+        [
+            1764,
+            8
+        ],
+        [
+            1765,
+            4
+        ],
+        [
+            1766,
+            6
+        ],
+        [
+            1767,
+            2
+        ],
+        [
+            1768,
+            5
+        ],
+        [
+            1769,
+            15
+        ],
+        [
+            1770,
+            4
+        ],
+        [
+            1771,
+            6
+        ],
+        [
+            1772,
+            4
+        ],
+        [
+            1773,
+            3
+        ],
+        [
+            1774,
+            9
+        ],
+        [
+            1775,
+            7
+        ],
+        [
+            1776,
+            10
+        ],
+        [
+            1777,
+            15
+        ],
+        [
+            1778,
+            16
+        ],
+        [
+            1779,
+            29
+        ],
+        [
+            1780,
+            21
+        ],
+        [
+            1781,
+            18
+        ],
+        [
+            1782,
+            15
+        ],
+        [
+            1783,
+            21
+        ],
+        [
+            1784,
+            16
+        ],
+        [
+            1785,
+            17
+        ],
+        [
+            1786,
+            23
+        ],
+        [
+            1787,
+            27
+        ],
+        [
+            1788,
+            18
+        ],
+        [
+            1789,
+            61
+        ],
+        [
+            1790,
+            83
+        ],
+        [
+            1791,
+            42
+        ],
+        [
+            1792,
+            30
+        ],
+        [
+            1793,
+            35
+        ],
+        [
+            1794,
+            23
+        ],
+        [
+            1795,
+            18
+        ],
+        [
+            1796,
+            38
+        ],
+        [
+            1797,
+            32
+        ],
+        [
+            1798,
+            35
+        ],
+        [
+            1799,
+            47
+        ],
+        [
+            1800,
+            19
+        ],
+        [
+            1801,
+            9
+        ],
+        [
+            1802,
+            12
+        ],
+        [
+            1803,
+            11
+        ],
+        [
+            1804,
+            7
+        ],
+        [
+            1805,
+            8
+        ],
+        [
+            1806,
+            11
+        ],
+        [
+            1807,
+            12
+        ],
+        [
+            1808,
+            13
+        ],
+        [
+            1809,
+            7
+        ],
+        [
+            1810,
+            17
+        ],
+        [
+            1811,
+            12
+        ],
+        [
+            1812,
+            9
+        ],
+        [
+            1813,
+            8
+        ],
+        [
+            1814,
+            19
+        ],
+        [
+            1815,
+            13
+        ],
+        [
+            1816,
+            41
+        ],
+        [
+            1817,
+            30
+        ],
+        [
+            1818,
+            19
+        ],
+        [
+            1819,
+            27
+        ],
+        [
+            1820,
+            18
+        ],
+        [
+            1821,
+            11
+        ],
+        [
+            1822,
+            15
+        ],
+        [
+            1823,
+            11
+        ],
+        [
+            1824,
+            13
+        ],
+        [
+            1825,
+            9
+        ],
+        [
+            1826,
+            13
+        ],
+        [
+            1827,
+            12
+        ],
+        [
+            1828,
+            15
+        ],
+        [
+            1829,
+            9
+        ],
+        [
+            1830,
+            9
+        ],
+        [
+            1831,
+            17
+        ],
+        [
+            1832,
+            16
+        ],
+        [
+            1833,
+            15
+        ],
+        [
+            1834,
+            19
+        ],
+        [
+            1835,
+            14
+        ],
+        [
+            1836,
+            13
+        ],
+        [
+            1837,
+            12
+        ],
+        [
+            1838,
+            25
+        ],
+        [
+            1839,
+            22
+        ],
+        [
+            1840,
+            33
+        ],
+        [
+            1841,
+            32
+        ],
+        [
+            1842,
+            22
+        ],
+        [
+            1843,
+            24
+        ],
+        [
+            1844,
+            23
+        ],
+        [
+            1845,
+            28
+        ],
+        [
+            1846,
+            30
+        ],
+        [
+            1847,
+            31
+        ],
+        [
+            1848,
+            40
+        ],
+        [
+            1849,
+            14
+        ],
+        [
+            1850,
+            31
+        ],
+        [
+            1851,
+            30
+        ],
+        [
+            1852,
+            23
+        ],
+        [
+            1853,
+            23
+        ],
+        [
+            1854,
+            20
+        ],
+        [
+            1855,
+            24
+        ],
+        [
+            1856,
+            27
+        ],
+        [
+            1857,
+            25
+        ],
+        [
+            1858,
+            31
+        ],
+        [
+            1859,
+            31
+        ],
+        [
+            1860,
+            19
+        ],
+        [
+            1861,
+            30
+        ],
+        [
+            1862,
+            71
+        ],
+        [
+            1863,
+            49
+        ],
+        [
+            1864,
+            73
+        ],
+        [
+            1865,
+            44
+        ],
+        [
+            1866,
+            27
+        ],
+        [
+            1867,
+            39
+        ],
+        [
+            1868,
+            49
+        ],
+        [
+            1869,
+            49
+        ],
+        [
+            1870,
+            29
+        ],
+        [
+            1871,
+            32
+        ],
+        [
+            1872,
+            39
+        ],
+        [
+            1873,
+            31
+        ],
+        [
+            1874,
+            42
+        ],
+        [
+            1875,
+            30
+        ],
+        [
+            1876,
+            40
+        ],
+        [
+            1877,
+            44
+        ],
+        [
+            1878,
+            43
+        ],
+        [
+            1879,
+            42
+        ],
+        [
+            1880,
+            54
+        ],
+        [
+            1881,
+            42
+        ],
+        [
+            1882,
+            32
+        ],
+        [
+            1883,
+            37
+        ],
+        [
+            1884,
+            28
+        ],
+        [
+            1885,
+            31
+        ],
+        [
+            1886,
+            44
+        ],
+        [
+            1887,
+            45
+        ],
+        [
+            1888,
+            39
+        ],
+        [
+            1889,
+            36
+        ],
+        [
+            1890,
+            42
+        ],
+        [
+            1891,
+            32
+        ],
+        [
+            1892,
+            45
+        ],
+        [
+            1893,
+            39
+        ],
+        [
+            1894,
+            39
+        ],
+        [
+            1895,
+            45
+        ],
+        [
+            1896,
+            63
+        ],
+        [
+            1897,
+            45
+        ],
+        [
+            1898,
+            50
+        ],
+        [
+            1899,
+            63
+        ],
+        [
+            1900,
+            107
+        ],
+        [
+            1901,
+            52
+        ],
+        [
+            1902,
+            58
+        ],
+        [
+            1903,
+            60
+        ],
+        [
+            1904,
+            80
+        ],
+        [
+            1905,
+            69
+        ],
+        [
+            1906,
+            49
+        ],
+        [
+            1907,
+            70
+        ],
+        [
+            1908,
+            96
+        ],
+        [
+            1909,
+            107
+        ],
+        [
+            1910,
+            117
+        ],
+        [
+            1911,
+            96
+        ],
+        [
+            1912,
+            127
+        ],
+        [
+            1913,
+            106
+        ],
+        [
+            1914,
+            106
+        ],
+        [
+            1915,
+            146
+        ],
+        [
+            1916,
+            137
+        ],
+        [
+            1917,
+            161
+        ],
+        [
+            1918,
+            191
+        ],
+        [
+            1919,
+            166
+        ],
+        [
+            1920,
+            155
+        ],
+        [
+            1921,
+            179
+        ],
+        [
+            1922,
+            157
+        ],
+        [
+            1923,
+            136
+        ],
+        [
+            1924,
+            157
+        ],
+        [
+            1925,
+            152
+        ],
+        [
+            1926,
+            177
+        ],
+        [
+            1927,
+            144
+        ],
+        [
+            1928,
+            142
+        ],
+        [
+            1929,
+            172
+        ],
+        [
+            1930,
+            160
+        ],
+        [
+            1931,
+            172
+        ],
+        [
+            1932,
+            167
+        ],
+        [
+            1933,
+            228
+        ],
+        [
+            1934,
+            195
+        ],
+        [
+            1935,
+            189
+        ],
+        [
+            1936,
+            154
+        ],
+        [
+            1937,
+            178
+        ],
+        [
+            1938,
+            181
+        ],
+        [
+            1939,
+            173
+        ],
+        [
+            1940,
+            134
+        ],
+        [
+            1941,
+            170
+        ],
+        [
+            1942,
+            127
+        ],
+        [
+            1943,
+            137
+        ],
+        [
+            1944,
+            103
+        ],
+        [
+            1945,
+            116
+        ],
+        [
+            1946,
+            102
+        ],
+        [
+            1947,
+            124
+        ],
+        [
+            1948,
+            123
+        ],
+        [
+            1949,
+            114
+        ],
+        [
+            1950,
+            97
+        ],
+        [
+            1951,
+            125
+        ],
+        [
+            1952,
+            106
+        ],
+        [
+            1953,
+            117
+        ],
+        [
+            1954,
+            125
+        ],
+        [
+            1955,
+            104
+        ],
+        [
+            1956,
+            135
+        ],
+        [
+            1957,
+            118
+        ],
+        [
+            1958,
+            153
+        ],
+        [
+            1959,
+            173
+        ],
+        [
+            1960,
+            200
+        ],
+        [
+            1961,
+            224
+        ],
+        [
+            1962,
+            253
+        ],
+        [
+            1963,
+            268
+        ],
+        [
+            1964,
+            291
+        ],
+        [
+            1965,
+            340
+        ],
+        [
+            1966,
+            427
+        ],
+        [
+            1967,
+            432
+        ],
+        [
+            1968,
+            494
+        ],
+        [
+            1969,
+            567
+        ],
+        [
+            1970,
+            644
+        ],
+        [
+            1971,
+            713
+        ],
+        [
+            1972,
+            761
+        ],
+        [
+            1973,
+            884
+        ],
+        [
+            1974,
+            707
+        ],
+        [
+            1975,
+            918
+        ],
+        [
+            1976,
+            963
+        ],
+        [
+            1977,
+            1083
+        ],
+        [
+            1978,
+            1178
+        ],
+        [
+            1979,
+            1206
+        ],
+        [
+            1980,
+            1219
+        ],
+        [
+            1981,
+            1214
+        ],
+        [
+            1982,
+            1221
+        ],
+        [
+            1983,
+            1290
+        ],
+        [
+            1984,
+            1315
+        ],
+        [
+            1985,
+            1348
+        ],
+        [
+            1986,
+            1479
+        ],
+        [
+            1987,
+            1402
+        ],
+        [
+            1988,
+            1381
+        ],
+        [
+            1989,
+            1390
+        ],
+        [
+            1990,
+            1569
+        ],
+        [
+            1991,
+            1635
+        ],
+        [
+            1992,
+            1762
+        ],
+        [
+            1993,
+            1899
+        ],
+        [
+            1994,
+            1780
+        ],
+        [
+            1995,
+            1851
+        ],
+        [
+            1996,
+            1880
+        ],
+        [
+            1997,
+            1996
+        ],
+        [
+            1998,
+            2093
+        ],
+        [
+            1999,
+            2173
+        ],
+        [
+            2000,
+            2127
+        ],
+        [
+            2001,
+            2127
+        ],
+        [
+            2002,
+            2172
+        ],
+        [
+            2003,
+            2143
+        ],
+        [
+            2004,
+            2061
+        ],
+        [
+            2005,
+            2022
+        ],
+        [
+            2006,
+            2037
+        ],
+        [
+            2007,
+            2231
+        ],
+        [
+            2008,
+            2222
+        ],
+        [
+            2009,
+            2203
+        ],
+        [
+            2010,
+            2854
+        ],
+        [
+            2011,
+            1783
+        ],
+        [
+            2012,
+            1642
+        ],
+        [
+            2013,
+            1384
+        ],
+        [
+            2014,
+            1169
+        ],
+        [
+            2015,
+            937
+        ],
+        [
+            2016,
+            727
+        ],
+        [
+            2017,
+            642
+        ],
+        [
+            2018,
+            676
+        ],
+        [
+            2019,
+            557
+        ],
+        [
+            2020,
+            880
+        ],
+        [
+            2021,
+            816
+        ],
+        [
+            2022,
+            393
+        ],
+        [
+            2023,
+            279
+        ],
+        [
+            2024,
+            110
+        ],
+        [
+            2025,
+            5
+        ]
+    ]
+}
