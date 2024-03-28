@@ -43,6 +43,7 @@ interface Work {
   public_scan: boolean;
   has_fulltext: boolean;
   availability: Availability;
+  number_of_pages: number
 }
 
 interface Availability {

@@ -18,10 +18,9 @@ export class HomeComponent {
 
 
   ngOnInit() {
-    this.bookService.getSubjectBooks('finance').subscribe({
+    this.bookService.getSubjectBooks().subscribe({
       next: (data: SubjectBookResponse) => {
         this.booksResponse = data;
-        console.log(this.booksResponse)
       },
       error: (error) => {
         console.error('There was an error fetching the subject details', error);
@@ -30,6 +29,11 @@ export class HomeComponent {
   }
 
   navigateTo(route: string, id: string) {
-    this.router.navigate([route, id]);
+    if (id) {
+      this.router.navigate([route, id]);  
+    }
+    else {
+      this.router.navigate([route]);  
+    }
   }
 }
